@@ -1,0 +1,41 @@
+.preco {
+    color: red;
+}
+
+.card1 {
+    width: 240px;
+    height: auto;
+    border: solid;
+    color: darkgreen;
+}
+
+.card2 {
+    width: 240px;
+    height: auto;
+    border: solid;
+    color: darkgreen;
+}
+
+.card3 {
+    width: 240px;
+    height: auto;
+    border: solid;
+    color: darkgreen;
+}
+
+.pode {
+    color: darkgreen;
+}
+
+.col1 {
+    justify-content: left;
+}
+
+.desc {
+    justify-content: center;
+}
+
+.col4 {
+    border: solid;
+    color: darkgreen;
+}
